@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ridgepaperALEPH.aux
+The style file: apsrev.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ridgepaperALEPH.bib
+Repeated entry---line 322 of file ridgepaperALEPH.bib
+ : @article{Aamodt:2010pa
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for ""
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 23 entries,
+            3411 wiz_defined-function locations,
+            1334 strings with 14342 characters,
+and the built_in function-call counts, 16226 in all, are:
+= -- 972
+> -- 511
+< -- 66
++ -- 412
+- -- 126
+* -- 2232
+:= -- 1794
+add.period$ -- 23
+call.type$ -- 23
+change.case$ -- 94
+chr.to.int$ -- 23
+cite$ -- 23
+duplicate$ -- 1441
+empty$ -- 1374
+format.name$ -- 337
+if$ -- 3095
+int.to.chr$ -- 1
+int.to.str$ -- 24
+missing$ -- 226
+newline$ -- 84
+num.names$ -- 69
+pop$ -- 312
+preamble$ -- 1
+purify$ -- 92
+quote$ -- 0
+skip$ -- 627
+stack$ -- 0
+substring$ -- 565
+swap$ -- 1157
+text.length$ -- 49
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 138
+warning$ -- 0
+while$ -- 69
+width$ -- 0
+write$ -- 266
+(There was 1 error message)

@@ -1,0 +1,176 @@
+\begin{thebibliography}{23}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{Khachatryan et~al.}(2010)}]{Khachatryan:2010gv}
+\bibinfo{author}{\bibfnamefont{V.}~\bibnamefont{Khachatryan}}
+  \bibnamefont{et~al.} (\bibinfo{collaboration}{CMS}), \bibinfo{journal}{JHEP}
+  \textbf{\bibinfo{volume}{09}}, \bibinfo{pages}{091} (\bibinfo{year}{2010}),
+  \eprint{1009.4122}.
+
+\bibitem[{\citenamefont{Chatrchyan et~al.}(2013)}]{CMS:2012qk}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Chatrchyan}}
+  \bibnamefont{et~al.} (\bibinfo{collaboration}{CMS}), \bibinfo{journal}{Phys.
+  Lett.} \textbf{\bibinfo{volume}{B718}}, \bibinfo{pages}{795}
+  (\bibinfo{year}{2013}), \eprint{1210.5482}.
+
+\bibitem[{\citenamefont{Abelev et~al.}(2013)}]{Abelev:2012ola}
+\bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Abelev}} \bibnamefont{et~al.}
+  (\bibinfo{collaboration}{ALICE}), \bibinfo{journal}{Phys. Lett.}
+  \textbf{\bibinfo{volume}{B719}}, \bibinfo{pages}{29} (\bibinfo{year}{2013}),
+  \eprint{1212.2001}.
+
+\bibitem[{\citenamefont{Aad et~al.}(2013)}]{Aad:2012gla}
+\bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Aad}} \bibnamefont{et~al.}
+  (\bibinfo{collaboration}{ATLAS}), \bibinfo{journal}{Phys. Rev. Lett.}
+  \textbf{\bibinfo{volume}{110}}, \bibinfo{pages}{182302}
+  (\bibinfo{year}{2013}), \eprint{1212.5198}.
+
+\bibitem[{\citenamefont{Aamodt et~al.}(2010)}]{Aamodt:2010pa}
+\bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Aamodt}} \bibnamefont{et~al.}
+  (\bibinfo{collaboration}{ALICE}), \bibinfo{journal}{Phys. Rev. Lett.}
+  \textbf{\bibinfo{volume}{105}}, \bibinfo{pages}{252302}
+  (\bibinfo{year}{2010}), \eprint{1011.3914}.
+
+\bibitem[{\citenamefont{Chatrchyan et~al.}(2012)}]{Chatrchyan:2012wg}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Chatrchyan}}
+  \bibnamefont{et~al.} (\bibinfo{collaboration}{CMS}), \bibinfo{journal}{Eur.
+  Phys. J.} \textbf{\bibinfo{volume}{C72}}, \bibinfo{pages}{2012}
+  (\bibinfo{year}{2012}), \eprint{1201.3158}.
+
+\bibitem[{\citenamefont{Back et~al.}(2005)}]{Back:2004je}
+\bibinfo{author}{\bibfnamefont{B.~B.} \bibnamefont{Back}} \bibnamefont{et~al.},
+  \bibinfo{journal}{Nucl. Phys.} \textbf{\bibinfo{volume}{A757}},
+  \bibinfo{pages}{28} (\bibinfo{year}{2005}), \eprint{nucl-ex/0410022}.
+
+\bibitem[{\citenamefont{Arsene et~al.}(2005)}]{Arsene:2004fa}
+\bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Arsene}} \bibnamefont{et~al.}
+  (\bibinfo{collaboration}{BRAHMS}), \bibinfo{journal}{Nucl. Phys.}
+  \textbf{\bibinfo{volume}{A757}}, \bibinfo{pages}{1} (\bibinfo{year}{2005}),
+  \eprint{nucl-ex/0410020}.
+
+\bibitem[{\citenamefont{Adcox et~al.}(2005)}]{Adcox:2004mh}
+\bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Adcox}} \bibnamefont{et~al.}
+  (\bibinfo{collaboration}{PHENIX}), \bibinfo{journal}{Nucl. Phys.}
+  \textbf{\bibinfo{volume}{A757}}, \bibinfo{pages}{184} (\bibinfo{year}{2005}),
+  \eprint{nucl-ex/0410003}.
+
+\bibitem[{\citenamefont{Adams et~al.}(2005)}]{Adams:2005dq}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Adams}} \bibnamefont{et~al.}
+  (\bibinfo{collaboration}{STAR}), \bibinfo{journal}{Nucl. Phys.}
+  \textbf{\bibinfo{volume}{A757}}, \bibinfo{pages}{102} (\bibinfo{year}{2005}),
+  \eprint{nucl-ex/0501009}.
+
+\bibitem[{\citenamefont{Ollitrault}(1992)}]{Ollitrault:1992bk}
+\bibinfo{author}{\bibfnamefont{J.-Y.} \bibnamefont{Ollitrault}},
+  \bibinfo{journal}{Phys. Rev.} \textbf{\bibinfo{volume}{D46}},
+  \bibinfo{pages}{229} (\bibinfo{year}{1992}).
+
+\bibitem[{\citenamefont{Alver and Roland}(2010)}]{Alver:2010gr}
+\bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Alver}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Roland}},
+  \bibinfo{journal}{Phys. Rev.} \textbf{\bibinfo{volume}{C81}},
+  \bibinfo{pages}{054905} (\bibinfo{year}{2010}), \bibinfo{note}{[Erratum:
+  Phys. Rev.C82,039903(2010)]}, \eprint{1003.0194}.
+
+\bibitem[{\citenamefont{Bzdak et~al.}(2013)\citenamefont{Bzdak, Schenke,
+  Tribedy, and Venugopalan}}]{Bzdak:2013zma}
+\bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Bzdak}},
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Schenke}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Tribedy}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Venugopalan}},
+  \bibinfo{journal}{Phys. Rev.} \textbf{\bibinfo{volume}{C87}},
+  \bibinfo{pages}{064906} (\bibinfo{year}{2013}), \eprint{1304.3403}.
+
+\bibitem[{\citenamefont{Dusling et~al.}(2016)\citenamefont{Dusling, Li, and
+  Schenke}}]{Dusling:2015gta}
+\bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Dusling}},
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Li}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Schenke}},
+  \bibinfo{journal}{Int. J. Mod. Phys.} \textbf{\bibinfo{volume}{E25}},
+  \bibinfo{pages}{1630002} (\bibinfo{year}{2016}), \eprint{1509.07939}.
+
+\bibitem[{\citenamefont{Adamczyk et~al.}(2012)}]{Adamczyk:2012ku}
+\bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Adamczyk}} \bibnamefont{et~al.}
+  (\bibinfo{collaboration}{STAR}), \bibinfo{journal}{Phys. Rev.}
+  \textbf{\bibinfo{volume}{C86}}, \bibinfo{pages}{054908}
+  (\bibinfo{year}{2012}), \eprint{1206.5528}.
+
+\bibitem[{\citenamefont{Gelis et~al.}(2010)\citenamefont{Gelis, Iancu,
+  Jalilian-Marian, and Venugopalan}}]{Gelis:2010nm}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Gelis}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Iancu}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Jalilian-Marian}},
+  \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Venugopalan}},
+  \bibinfo{journal}{Ann. Rev. Nucl. Part. Sci.} \textbf{\bibinfo{volume}{60}},
+  \bibinfo{pages}{463} (\bibinfo{year}{2010}), \eprint{1002.0333}.
+
+\bibitem[{\citenamefont{Dusling and Venugopalan}(2013)}]{Dusling:2013qoz}
+\bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Dusling}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Venugopalan}},
+  \bibinfo{journal}{Phys. Rev.} \textbf{\bibinfo{volume}{D87}},
+  \bibinfo{pages}{094034} (\bibinfo{year}{2013}), \eprint{1302.7018}.
+
+\bibitem[{\citenamefont{Nagle et~al.}(2018)\citenamefont{Nagle, Belmont, Hill,
+  Orjuela~Koop, Perepelitsa, Yin, Lin, and McGlinchey}}]{Nagle:2017sjv}
+\bibinfo{author}{\bibfnamefont{J.~L.} \bibnamefont{Nagle}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Belmont}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Hill}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Orjuela~Koop}},
+  \bibinfo{author}{\bibfnamefont{D.~V.} \bibnamefont{Perepelitsa}},
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Yin}},
+  \bibinfo{author}{\bibfnamefont{Z.-W.} \bibnamefont{Lin}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{McGlinchey}},
+  \bibinfo{journal}{Phys. Rev.} \textbf{\bibinfo{volume}{C97}},
+  \bibinfo{pages}{024909} (\bibinfo{year}{2018}), \eprint{1707.02307}.
+
+\bibitem[{\citenamefont{Barate et~al.}(1998)}]{Barate:1996fi}
+\bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Barate}} \bibnamefont{et~al.}
+  (\bibinfo{collaboration}{ALEPH}), \bibinfo{journal}{Phys. Rept.}
+  \textbf{\bibinfo{volume}{294}}, \bibinfo{pages}{1} (\bibinfo{year}{1998}).
+
+\bibitem[{\citenamefont{Decamp et~al.}(1990)}]{Decamp:1990jra}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Decamp}} \bibnamefont{et~al.}
+  (\bibinfo{collaboration}{ALEPH}), \bibinfo{journal}{Nucl. Instrum. Meth.}
+  \textbf{\bibinfo{volume}{A294}}, \bibinfo{pages}{121} (\bibinfo{year}{1990}),
+  \bibinfo{note}{[Erratum: Nucl. Instrum. Meth.A303,393(1991)]}.
+
+\bibitem[{\citenamefont{Tripathee et~al.}(2017)\citenamefont{Tripathee, Xue,
+  Larkoski, Marzani, and Thaler}}]{Tripathee:2017ybi}
+\bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Tripathee}},
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Xue}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Larkoski}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Marzani}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Thaler}},
+  \bibinfo{journal}{Phys. Rev.} \textbf{\bibinfo{volume}{D96}},
+  \bibinfo{pages}{074003} (\bibinfo{year}{2017}), \eprint{1704.05842}.
+
+\bibitem[{\citenamefont{He et~al.}(2016)\citenamefont{He, Edmonds, Lin, Liu,
+  Molnar, and Wang}}]{He:2015hfa}
+\bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{He}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Edmonds}},
+  \bibinfo{author}{\bibfnamefont{Z.-W.} \bibnamefont{Lin}},
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Liu}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Molnar}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Wang}},
+  \bibinfo{journal}{Phys. Lett.} \textbf{\bibinfo{volume}{B753}},
+  \bibinfo{pages}{506} (\bibinfo{year}{2016}), \eprint{1502.05572}.
+
+\bibitem[{\citenamefont{Adare et~al.}(2013)}]{Adare:2013piz}
+\bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Adare}} \bibnamefont{et~al.}
+  (\bibinfo{collaboration}{PHENIX}), \bibinfo{journal}{Phys. Rev. Lett.}
+  \textbf{\bibinfo{volume}{111}}, \bibinfo{pages}{212301}
+  (\bibinfo{year}{2013}), \eprint{1303.1794}.
+
+\end{thebibliography}
