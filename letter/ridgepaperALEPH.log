@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  29 NOV 2017 00:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6700) (preloaded format=pdflatex 2018.6.2)  8 OCT 2018 19:26
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**ridgepaperALEPH.tex
-(./ridgepaperALEPH.tex
-LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/revtex4/revtex4.cls
-Document Class: revtex4 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for do
+**./ridgepaperALEPH.tex
+(ridgepaperALEPH.tex
+LaTeX2e <2018-04-01> patch level 5
+Babel <3.20> and hyphenation patterns for 0 language(s) loaded.
+
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/re
+vtex4/revtex4.cls"
+Document Class: revtex4 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for do
 cumentation)
  Copyright (c) 2001 The American Physical Society.
  mailto:revtex@aps.org
@@ -17,105 +17,114 @@ http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
  Based on work by David Carlisle <david@dcarlisle.demon.co.uk>.
 ltxutil: portions licensed from W. E. Baxter (web@superscript.com)
 Class revtex4 Info: Repairing broken LateX \@sect on input line 596.
-\intertabularlinepenalty=\count79
-\@tbpen=\count80
+\intertabularlinepenalty=\count80
+\@tbpen=\count81
 \@arstrutbox@hline=\box26
 Class revtex4 Info: Repairing broken LaTeX \@xbitor on input line 1610.
 ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
-\c@linecount=\count81
+\c@linecount=\count82
 \output=\toks14
 \@protection@box=\box27
 \@topmark@saved=\toks15
 \footins@saved=\box28
 \pagesofar=\box29
 \footbox=\box30
-\pagegrid@col=\count82
+\pagegrid@col=\count83
 Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
 ly upper/lower case changing (DPC)]. on input line 3682.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ur
+l/url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@affil=\count83
+\c@affil=\count84
 \absbox=\box31
-\c@part=\count84
-\c@section=\count85
-\c@subsection=\count86
-\c@subsubsection=\count87
-\c@paragraph=\count88
-\c@subparagraph=\count89
+\c@part=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
-\c@figure=\count90
-\c@table=\count91
+\c@figure=\count91
+\c@table=\count92
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/natbib/natbib.sty
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/na
+tbib/natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip43
 \bibsep=\skip44
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count92
+\c@NAT@ctr=\count93
 )
 \widetext@top=\box32
 \widetext@bot=\box33
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/revtex4/revsymb.sty
-Package: revsymb 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documenta
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/re
+vtex4/revsymb.sty"
+Package: revsymb 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documenta
 tion)
 LaTeX Info: Redefining \REV@mathfrak on input line 118.
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/revtex4/aps.rtx
-File: aps.rtx 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documentatio
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/re
+vtex4/aps.rtx"
+File: aps.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentatio
 n)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/revtex4/10pt.rtx
-File: 10pt.rtx 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documentati
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/re
+vtex4/10pt.rtx"
+File: 10pt.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentati
 on)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics/graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics/keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics/graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics/trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics-cfg/graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count93
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics-def/pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen102
 \Gin@req@width=\dimen103
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/dcolumn.sty
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/to
+ols/dcolumn.sty"
 Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
-Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/to
+ols/array.sty"
+Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
 \col@sep=\dimen104
+\ar@mcellbox=\box34
 \extrarowheight=\dimen105
 \NC@list=\toks17
 \extratabsurround=\skip45
 \backup@length=\skip46
+\ar@cellbox=\box35
 ))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/bm.sty
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/to
+ols/bm.sty"
 Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup4
 \symboldletters=\mathgroup5
@@ -123,10 +132,12 @@ Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 207.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+sfonts/amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+sfonts/amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks18
 \symAMSa=\mathgroup7
@@ -135,18 +146,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 LaTeX Info: Redefining \frak on input line 111.
 LaTeX Info: Redefining \Bbb on input line 113.
-))
-(./ridgepaperALEPH.aux
-
-LaTeX Warning: Label `sec:' multiply defined.
-
-
-LaTeX Warning: Label `sec:' multiply defined.
-
-
-LaTeX Warning: Label `sec:datasample' multiply defined.
-
-)
+)) (ridgepaperALEPH.aux)
 \openout1 = `ridgepaperALEPH.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -165,11 +165,13 @@ Class revtex4 Info: Unrecognized array package. Please update this document cla
 ss! (Proceeding with fingers crossed.) on input line 13.
 Class revtex4 Info: cite was not loaded (OK!) on input line 13.
 Class revtex4 Info: multicol was not loaded (OK!) on input line 13.
- (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/context/
+base/supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count94
 \scratchdimen=\dimen106
-\scratchbox=\box34
+\scratchbox=\box36
 \nofMPsegments=\count95
 \nofMParguments=\count96
 \everyMPshowfont=\toks19
@@ -178,271 +180,229 @@ Class revtex4 Info: multicol was not loaded (OK!) on input line 13.
 \MPnumerator=\count98
 \makeMPintoPDFobject=\count99
 \everyMPtoPDFconversion=\toks20
-) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ob
+erdiek/epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ob
+erdiek/grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ob
+erdiek/kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 40.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-LaTeX Font Info:    Try loading font information for U+msa on input line 38.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+sfonts/umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 38.
+LaTeX Font Info:    Try loading font information for U+msb on input line 40.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+("/Users/anthony/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+sfonts/umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-
-Package natbib Warning: Citation `Khachatryan:2010gv' on page 1 undefined on in
-put line 48.
-
-
-Package natbib Warning: Citation `CMS:2012qk' on page 1 undefined on input line
- 48.
+Underfull \hbox (badness 2134) in paragraph at lines 46--55
+[]\OT1/cmr/m/n/10 Two-particle correlations in high-energy collisions
+ []
 
 
-Package natbib Warning: Citation `Abelev:2012ola' on page 1 undefined on input 
-line 48.
+Underfull \hbox (badness 1009) in paragraph at lines 46--55
+\OT1/cmr/m/n/10 of particle production and reveal possible collective
+ []
 
 
-Package natbib Warning: Citation `Aad:2012gla' on page 1 undefined on input lin
-e 48.
+Underfull \hbox (badness 1803) in paragraph at lines 46--55
+\OT1/cmr/m/n/10 hadron beam direction. Of particular interest in
+ []
 
 
-Package natbib Warning: Citation `Aamodt:2010pa' on page 1 undefined on input l
-ine 48.
+Underfull \hbox (badness 1043) in paragraph at lines 46--55
+\OT1/cmr/m/n/10 in high-energy AA collisions have shown significant
+ []
+
+[1{/Users/anthony/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/
+pdftex.map}]
+<plots/beam/beamAxisAnalysis.png, id=21, 569.0058pt x 556.479pt>
+File: plots/beam/beamAxisAnalysis.png Graphic file (type png)
+<use plots/beam/beamAxisAnalysis.png>
+Package pdftex.def Info: plots/beam/beamAxisAnalysis.png  used on input line 88
+.
+(pdftex.def)             Requested size: 147.89658pt x 144.63867pt.
+<plots/beam/beamAxisAnalysisProjection.png, id=23, 571.85071pt x 556.36429pt>
+File: plots/beam/beamAxisAnalysisProjection.png Graphic file (type png)
+<use plots/beam/beamAxisAnalysisProjection.png>
+Package pdftex.def Info: plots/beam/beamAxisAnalysisProjection.png  used on inp
+ut line 89.
+(pdftex.def)             Requested size: 147.89658pt x 143.88725pt.
+<plots/thrust/thrustAxisAnalysis.png, id=24, 395.5578pt x 386.8854pt>
+File: plots/thrust/thrustAxisAnalysis.png Graphic file (type png)
+<use plots/thrust/thrustAxisAnalysis.png>
+Package pdftex.def Info: plots/thrust/thrustAxisAnalysis.png  used on input lin
+e 97.
+(pdftex.def)             Requested size: 147.89658pt x 144.65662pt.
+<plots/thrust/thrustAxisAnalysisProjection.png, id=25, 351.2322pt x 341.5962pt>
+
+File: plots/thrust/thrustAxisAnalysisProjection.png Graphic file (type png)
+<use plots/thrust/thrustAxisAnalysisProjection.png>
+Package pdftex.def Info: plots/thrust/thrustAxisAnalysisProjection.png  used on
+ input line 98.
+(pdftex.def)             Requested size: 147.89658pt x 143.8395pt.
+<plots/thrustBarrel/thrustAxisBarrelAnalysis.png, id=26, 396.0396pt x 386.8854p
+t>
+File: plots/thrustBarrel/thrustAxisBarrelAnalysis.png Graphic file (type png)
+<use plots/thrustBarrel/thrustAxisBarrelAnalysis.png>
+Package pdftex.def Info: plots/thrustBarrel/thrustAxisBarrelAnalysis.png  used 
+on input line 106.
+(pdftex.def)             Requested size: 147.89658pt x 144.47952pt.
+<plots/thrustBarrel/thrustAxisBarrelAnalysisProjection.png, id=27, 351.2322pt x
+ 341.5962pt>
+File: plots/thrustBarrel/thrustAxisBarrelAnalysisProjection.png Graphic file (t
+ype png)
+<use plots/thrustBarrel/thrustAxisBarrelAnalysisProjection.png>
+Package pdftex.def Info: plots/thrustBarrel/thrustAxisBarrelAnalysisProjection.
+png  used on input line 107.
+(pdftex.def)             Requested size: 147.89658pt x 143.8395pt.
+
+Underfull \hbox (badness 1072) in paragraph at lines 108--108
+[]\OT1/cmr/m/n/9 FIG. 3: (Left panel) Two-particle correlation functions
+ []
 
 
-Package natbib Warning: Citation `Chatrchyan:2012wg' on page 1 undefined on inp
-ut line 48.
+Underfull \hbox (badness 1024) in paragraph at lines 108--108
+\OMS/cmsy/m/n/9 j\OT1/cmr/m/n/9 \OML/cmm/m/it/9 \OMS/cmsy/m/n/9 j \OML/cmm/m/
+it/9 < \OT1/cmr/m/n/9 3\OML/cmm/m/it/9 :\OT1/cmr/m/n/9 0$. The error bars corre
+spond to statistical
+ []
 
-
-Package natbib Warning: Citation `Back:2004je' on page 1 undefined on input lin
-e 50.
-
-
-Package natbib Warning: Citation `Arsene:2004fa' on page 1 undefined on input l
-ine 50.
-
-
-Package natbib Warning: Citation `Adcox:2004mh' on page 1 undefined on input li
-ne 50.
-
-
-Package natbib Warning: Citation `Adams:2005dq' on page 1 undefined on input li
-ne 50.
-
-
-Package natbib Warning: Citation `Ollitrault:1992bk' on page 1 undefined on inp
-ut line 50.
-
-
-Package natbib Warning: Citation `Alver:2010gr' on page 1 undefined on input li
-ne 50.
-
-
-Package natbib Warning: Citation `Khachatryan:2010gv' on page 1 undefined on in
-put line 51.
-
-
-Package natbib Warning: Citation `CMS:2012qk' on page 1 undefined on input line
- 51.
-
-
-Package natbib Warning: Citation `Abelev:2012ola' on page 1 undefined on input 
-line 51.
-
-
-Package natbib Warning: Citation `Aad:2012gla' on page 1 undefined on input lin
-e 51.
-
-
-Package natbib Warning: Citation `Bzdak:2013zma' on page 1 undefined on input l
-ine 51.
-
-
-Package natbib Warning: Citation `Dusling:2015gta' on page 1 undefined on input
- line 51.
-
-
-Package natbib Warning: Citation `Adamczyk:2012ku' on page 1 undefined on input
- line 51.
-
-
-Package natbib Warning: Citation `Gelis:2010nm' on page 1 undefined on input li
-ne 52.
-
-
-Package natbib Warning: Citation `Dusling:2013qoz' on page 1 undefined on input
- line 52.
-
-[1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<figure1.png, id=21, 744.7825pt x 680.5425pt>
-File: figure1.png Graphic file (type png)
- <use figure1.png>
-Package pdftex.def Info: figure1.png used on input line 98.
-(pdftex.def)             Requested size: 229.49844pt x 209.69911pt.
-File: figure1.png Graphic file (type png)
-
-<use figure1.png>
-Package pdftex.def Info: figure1.png used on input line 106.
-(pdftex.def)             Requested size: 229.49844pt x 209.69911pt.
- [2 <./figure1.png>]
+[2 <./plots/beam/beamAxisAnalysis.png> <./plots/beam/beamAxisAnalysisProjection
+.png>]
 
 LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
- on input line 127.
+ on input line 131.
+
+(ridgepaperALEPH.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 128--135
+ []\OT1/cmr/m/n/9 F. Gelis, E. Iancu, J. Jalilian-Marian, and
+ []
 
 
-<plots/GlobalObservables/LEP1/allmomlep1.pdf, id=28, 569.12625pt x 545.03625pt>
-File: plots/GlobalObservables/LEP1/allmomlep1.pdf Graphic file (type pdf)
-<use plots/GlobalObservables/LEP1/allmomlep1.pdf>
-Package pdftex.def Info: plots/GlobalObservables/LEP1/allmomlep1.pdf used on in
-put line 134.
-(pdftex.def)             Requested size: 203.99689pt x 195.36461pt.
+Underfull \hbox (badness 3039) in paragraph at lines 128--135
+ \OT1/cmr/m/n/9 R. Venugopalan, Ann. Rev. Nucl. Part. Sci. \OT1/cmr/bx/n/9 60\O
+T1/cmr/m/n/9 ,
+ []
 
-<plots/GlobalObservables/LEP1/allmultlep1.pdf, id=29, 569.12625pt x 545.03625pt
->
-File: plots/GlobalObservables/LEP1/allmultlep1.pdf Graphic file (type pdf)
- <use plots/GlobalObservables/LEP1/allmultlep1.pdf>
-Package pdftex.def Info: plots/GlobalObservables/LEP1/allmultlep1.pdf used on i
-nput line 140.
-(pdftex.def)             Requested size: 203.99689pt x 195.36461pt.
+[3 <./plots/thrust/thrustAxisAnalysis.png> <./plots/thrust/thrustAxisAnalysisPr
+ojection.png> <./plots/thrustBarrel/thrustAxisBarrelAnalysis.png> <./plots/thru
+stBarrel/thrustAxisBarrelAnalysisProjection.png>]
+Underfull \hbox (badness 1122) in paragraph at lines 156--160
+ []\OT1/cmr/m/n/9 D. Decamp et al. (ALEPH), Nucl. Instrum. Meth.
+ []
 
-<plots/GlobalObservables/LEP1/jetetalep1.pdf, id=30, 569.12625pt x 545.03625pt>
-File: plots/GlobalObservables/LEP1/jetetalep1.pdf Graphic file (type pdf)
-<use plots/GlobalObservables/LEP1/jetetalep1.pdf>
-Package pdftex.def Info: plots/GlobalObservables/LEP1/jetetalep1.pdf used on in
-put line 147.
-(pdftex.def)             Requested size: 203.99689pt x 195.36461pt.
 
-<plots/GlobalObservables/LEP1/jetptlep1.pdf, id=31, 569.12625pt x 545.03625pt>
-File: plots/GlobalObservables/LEP1/jetptlep1.pdf Graphic file (type pdf)
+Underfull \hbox (badness 10000) in paragraph at lines 156--160
+ \OT1/cmr/bx/n/9 A294\OT1/cmr/m/n/9 , 121 (1990), [Erratum: Nucl. Instrum.
+ []
 
-<use plots/GlobalObservables/LEP1/jetptlep1.pdf>
-Package pdftex.def Info: plots/GlobalObservables/LEP1/jetptlep1.pdf used on inp
-ut line 153.
-(pdftex.def)             Requested size: 203.99689pt x 195.36461pt.
 
-<plots/GlobalObservables/LEP2/allmomlep2.pdf, id=32, 569.12625pt x 545.03625pt>
-File: plots/GlobalObservables/LEP2/allmomlep2.pdf Graphic file (type pdf)
-<use plots/GlobalObservables/LEP2/allmomlep2.pdf>
-Package pdftex.def Info: plots/GlobalObservables/LEP2/allmomlep2.pdf used on in
-put line 162.
-(pdftex.def)             Requested size: 229.49844pt x 219.78207pt.
+Underfull \hbox (badness 5741) in paragraph at lines 191--203
+ []\OT1/cmr/m/n/9 N. N. Ajitanand, J. M. Alexander, P. Chung,
+ []
 
-<plots/GlobalObservables/LEP2/allmultlep2.pdf, id=33, 569.12625pt x 545.03625pt
->
-File: plots/GlobalObservables/LEP2/allmultlep2.pdf Graphic file (type pdf)
- <use plots/GlobalObservables/LEP2/allmultlep2.pdf>
-Package pdftex.def Info: plots/GlobalObservables/LEP2/allmultlep2.pdf used on i
-nput line 168.
-(pdftex.def)             Requested size: 229.49844pt x 219.78207pt.
-
-<plots/GlobalObservables/LEP2/jetetalep2.pdf, id=34, 569.12625pt x 545.03625pt>
-File: plots/GlobalObservables/LEP2/jetetalep2.pdf Graphic file (type pdf)
-<use plots/GlobalObservables/LEP2/jetetalep2.pdf>
-Package pdftex.def Info: plots/GlobalObservables/LEP2/jetetalep2.pdf used on in
-put line 175.
-(pdftex.def)             Requested size: 229.49844pt x 219.78207pt.
-
-<plots/GlobalObservables/LEP2/jetptlep2.pdf, id=35, 569.12625pt x 545.03625pt>
-File: plots/GlobalObservables/LEP2/jetptlep2.pdf Graphic file (type pdf)
-
-<use plots/GlobalObservables/LEP2/jetptlep2.pdf>
-Package pdftex.def Info: plots/GlobalObservables/LEP2/jetptlep2.pdf used on inp
-ut line 181.
-(pdftex.def)             Requested size: 229.49844pt x 219.78207pt.
-
-No file ridgepaperALEPH.bbl.
-
-Package natbib Warning: There were undefined citations.
-
-[3 <./plots/GlobalObservables/LEP1/allmomlep1.pdf, page is rotated 90 degrees> 
-<./plots/GlobalObservables/LEP1/allmultlep1.pdf, page is rotated 90 degrees> <.
-/plots/GlobalObservables/LEP1/jetetalep1.pdf, page is rotated 90 degrees>]
-[4 <./plots/GlobalObservables/LEP1/jetptlep1.pdf, page is rotated 90 degrees> <
-./plots/GlobalObservables/LEP2/allmomlep2.pdf, page is rotated 90 degrees>]
-[5 <./plots/GlobalObservables/LEP2/allmultlep2.pdf, page is rotated 90 degrees>
- <./plots/GlobalObservables/LEP2/jetetalep2.pdf, page is rotated 90 degrees>]
-[6 <./plots/GlobalObservables/LEP2/jetptlep2.pdf, page is rotated 90 degrees>]
-(./ridgepaperALEPH.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+) [4] (ridgepaperALEPH.aux) ) 
 Here is how much of TeX's memory you used:
- 3575 strings out of 492995
- 48446 string characters out of 6132704
- 122673 words of memory out of 5000000
- 7065 multiletter control sequences out of 15000+600000
- 14642 words of font info for 54 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 39i,7n,26p,1412b,306s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
-usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
-/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/l
-ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
-al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/
-texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/tex
-live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texliv
-e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2
-017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
-17/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2017
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2017/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2017/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on ridgepaperALEPH.pdf (6 pages, 443929 bytes).
+ 3585 strings out of 494892
+ 51185 string characters out of 3176881
+ 119820 words of memory out of 3000000
+ 7141 multiletter control sequences out of 15000+200000
+ 18670 words of font info for 69 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 41i,5n,27p,1579b,302s stack positions out of 5000i,500n,10000p,200000b,50000s
+</Users/anthony/Library/Application Support/MiKTeX
+/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/anthony/Libra
+ry/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmb
+x9.pfb></Users/anthony/Library/Application Support/MiKTeX/texmfs/install/fonts/
+type1/public/amsfonts/cm/cmmi10.pfb></Users/anthony/Library/Application Support
+/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></Users/anthon
+y/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts
+/cm/cmmi5.pfb></Users/anthony/Library/Application Support/MiKTeX/texmfs/install
+/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Users/anthony/Library/Application S
+upport/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi9.pfb></Users/a
+nthony/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/ams
+fonts/cm/cmr10.pfb></Users/anthony/Library/Application Support/MiKTeX/texmfs/in
+stall/fonts/type1/public/amsfonts/cm/cmr5.pfb></Users/anthony/Library/Applicati
+on Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></User
+s/anthony/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/
+amsfonts/cm/cmr7.pfb></Users/anthony/Library/Application Support/MiKTeX/texmfs/
+install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/anthony/Library/Applica
+tion Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb></Us
+ers/anthony/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></Users/anthony/Library/Application Support/MiKTeX/tex
+mfs/install/fonts/type1/public/amsfonts/cm/cmsy6.pfb></Users/anthony/Library/Ap
+plication Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pf
+b></Users/anthony/Library/Application Support/MiKTeX/texmfs/install/fonts/type1
+/public/amsfonts/cm/cmsy8.pfb></Users/anthony/Library/Application Support/MiKTe
+X/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy9.pfb></Users/anthony/Libra
+ry/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmt
+i7.pfb></Users/anthony/Library/Application Support/MiKTeX/texmfs/install/fonts/
+type1/public/amsfonts/cm/cmti9.pfb>
+Output written on ridgepaperALEPH.pdf (4 pages, 1344964 bytes).
 PDF statistics:
- 444 PDF objects out of 1000 (max. 8388607)
- 207 compressed objects within 3 object streams
+ 108 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
